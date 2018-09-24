@@ -1,7 +1,8 @@
-#Housing Society Management Portal
+Housing Society Management Portal
+
 TEAM MEMBERS:
-##MARILYN V XAVIER (1MV16CS130)
-##K SRAVAN SAI KUMAR (1MV16CS040)
+MARILYN V XAVIER (1MV16CS130)
+K SRAVAN SAI KUMAR (1MV16CS040)
 
 DESCRIPTION:
 Housing Society Management Portal is a DBMS project which is a platform to keep a track of all the residents in a particular housing society, 
